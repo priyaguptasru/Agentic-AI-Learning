@@ -1,0 +1,15 @@
+create virtual environment: python -m venv .venv1
+activate virtual environment: .\.venv4\Scripts\Activate.ps1
+to check virtual environment: python -c "import sys; print(sys.executable)"
+to find the list of requirements.txt: pip list
+
+python -m app.services.chunking
+python -m app.services.embedding_service
+python -m app.services.vector_store
+python -m app.services.semantic_search
+python -m app.services.keyword_search
+python -m app.services.hybrid_search
+python -m app.services.query_normalizer
+python -m app.services.query_expansion
+python -m app.services.evaluation 
+python -m app.services.charts
