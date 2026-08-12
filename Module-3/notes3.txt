@@ -1,0 +1,5 @@
+Run python tiny server:- Since project consists of three independent modules, Live Server was watching the entire workspace and automatically refreshing the browser whenever Module-1 generated output files. To avoid unnecessary reloads and keep the frontend independent, I used Python's built-in http.server as a lightweight static web server. It serves the HTML, CSS, and JavaScript files without watching unrelated project files, resulting in a more stable development workflow
+in vscode terminal: python -m http.server 5500
+in browser: http://127.0.0.1:5500/html/index.html
+
+Hard refreshing to browser: Ctrl+Shift+R

@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1.0">
+
+    <title>CSV Browser</title>
+
+    <link rel="stylesheet"
+          href="../css/style.css">
+
+    <link rel="stylesheet"
+          href="../css/csv.css">
+
+</head>
+
+<body>
+
+<div class="container">
+
+    <h1>CSV Browser</h1>
+
+    <!-- Search -->
+
+    <section class="card">
+
+        <input
+            type="text"
+            id="searchInput"
+            placeholder="Search CSV file..."
+        >
+
+    </section>
+
+    <!-- CSV List -->
+
+    <section class="card">
+
+        <h2>CSV Files</h2>
+
+        <div id="csvList">
+
+            Loading CSV files...
+
+        </div>
+
+    </section>
+
+    <!-- Details -->
+
+    <section class="card">
+
+        <h2>CSV Details</h2>
+
+        <div id="csvDetails">
+
+            Select a CSV file.
+
+        </div>
+
+    </section>
+
+    <!-- Back -->
+
+    <section class="card">
+
+        <button onclick="location.href='index.html'">
+
+            ← Back to Home
+
+        </button>
+
+    </section>
+
+</div>
+
+<script src="../js/api.js"></script>
+
+<script src="../js/csv.js"></script>
+
+</body>
+
+</html>

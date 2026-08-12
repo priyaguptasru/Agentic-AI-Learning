@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1.0">
+
+    <title>Document Browser</title>
+
+    <link rel="stylesheet" href="../css/style.css">
+
+    <link rel="stylesheet" href="../css/documents.css">
+
+</head>
+
+<body>
+
+    <div class="container">
+
+        <h1>Document Browser</h1>
+
+        <!-- Search -->
+
+        <section class="card">
+
+            <input
+                type="text"
+                id="searchInput"
+                placeholder="Search document..."
+            >
+
+        </section>
+
+        <!-- Document List -->
+
+        <section class="card">
+
+            <h2>Documents</h2>
+
+            <div id="documentList">
+
+                Loading documents...
+
+            </div>
+
+        </section>
+
+        <!-- Document Details -->
+
+        <section class="card">
+
+            <h2>Document Details</h2>
+
+            <div id="documentDetails">
+
+                Select a document from the list.
+
+            </div>
+
+        </section>
+
+        <!-- Navigation -->
+
+        <section class="card">
+
+            <button
+                onclick="location.href='index.html'"
+            >
+                ← Back to Home
+            </button>
+
+        </section>
+
+    </div>
+
+    <!-- API -->
+
+    <script src="../js/api.js"></script>
+
+    <!-- Documents -->
+
+    <script src="../js/documents.js"></script>
+
+</body>
+
+</html>
