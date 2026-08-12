@@ -1,0 +1,31 @@
+create virtual environment: python -m venv .venv1
+activate virtual environment: .\.venv1\Scripts\Activate.ps1
+to check virtual environment: python -c "import sys; print(sys.executable)"
+to find the list of requirements.txt: pip list
+to verify pdf extraction: python -m scripts.extract_all_pdfs
+to verify structured json: python -m scripts.detect_document_structure
+to test normalized json: python -m scripts.normalize_json
+to explore csv files: python -m scripts.explore_csvs
+to clean csv files: python -m scripts.clean_csv_data
+to load json files to db: python -m scripts.load_json_to_db
+to load csv files to db: python -m scripts.load_csv_to_db
+to verify log: python -m scripts.test_logger
+to verify DB(postgresql) connection: python -m scripts.test_db_connection
+to verify tables: python -m scripts.create_tables
+to open postgresql through cmd: psql -U postgres (password= 123456789)
+to connect to module1_db: \c module1_db
+to find the list of tables in DB: \dt
+to verify DB in postgresql:
+#to check counts
+=>SELECT COUNT(*) FROM documents;
+=>SELECT COUNT(*) FROM pages;
+=>SELECT COUNT(*) FROM sections;
+=>SELECT COUNT(*) FROM paragraphs;
+=>SELECT COUNT(*) FROM csv_files;
+=>SELECT COUNT(*) FROM csv_records;
+#to check the files present
+=>SELECT * FROM documents;
+=>SELECT * FROM csv_files;
+
+To set WIN1252 to UTF8: SET client_encoding TO 'UTF8'; OR \encoding UTF8
+To verify it: SHOW client_encoding;

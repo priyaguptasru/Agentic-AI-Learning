@@ -1,0 +1,72 @@
+DATA QUALITY REPORT
+============================================================
+
+File: iris.csv
+Rows: 150
+Columns: 5
+
+Missing Values:
+sepal_length: 0
+sepal_width: 0
+petal_length: 0
+petal_width: 0
+species: 0
+
+Duplicate Rows: 3
+
+------------------------------------------------------------
+
+File: irissecond.csv
+Rows: 150
+Columns: 5
+
+Missing Values:
+sepal_length: 0
+sepal_width: 0
+petal_length: 0
+petal_width: 0
+species: 0
+
+Duplicate Rows: 3
+
+------------------------------------------------------------
+
+File: tips.csv
+Rows: 244
+Columns: 7
+
+Missing Values:
+total_bill: 0
+tip: 0
+sex: 0
+smoker: 0
+day: 0
+time: 0
+size: 0
+
+Duplicate Rows: 1
+
+------------------------------------------------------------
+
+File: titanic.csv
+Rows: 891
+Columns: 12
+
+Missing Values:
+PassengerId: 0
+Survived: 0
+Pclass: 0
+Name: 0
+Sex: 0
+Age: 177
+SibSp: 0
+Parch: 0
+Ticket: 0
+Fare: 0
+Cabin: 687
+Embarked: 2
+
+Duplicate Rows: 0
+
+------------------------------------------------------------
+

@@ -1,0 +1,4542 @@
+{
+    "document_id": 1,
+    "document_name": "IRS_Form_1040.pdf",
+    "pages": [
+        {
+            "page_id": 1,
+            "page_number": 1,
+            "sections": [
+                {
+                    "section_id": 1,
+                    "header": "Form",
+                    "paragraphs": [
+                        {
+                            "paragraph_id": 1,
+                            "text": "1040"
+                        },
+                        {
+                            "paragraph_id": 2,
+                            "text": "2025"
+                        }
+                    ]
+                },
+                {
+                    "section_id": 2,
+                    "header": "U.S. Individual Income Tax Return",
+                    "paragraphs": [
+                        {
+                            "paragraph_id": 3,
+                            "text": "Department of the Treasury—Internal Revenue Service"
+                        },
+                        {
+                            "paragraph_id": 4,
+                            "text": "OMB No. 1545-0074"
+                        },
+                        {
+                            "paragraph_id": 5,
+                            "text": "IRS Use Only—Do not write or staple in this space."
+                        },
+                        {
+                            "paragraph_id": 6,
+                            "text": "For the year Jan. 1–Dec. 31, 2025, or other tax year beginning"
+                        },
+                        {
+                            "paragraph_id": 7,
+                            "text": ", 2025, ending"
+                        },
+                        {
+                            "paragraph_id": 8,
+                            "text": ", 20"
+                        },
+                        {
+                            "paragraph_id": 9,
+                            "text": "See separate instructions."
+                        },
+                        {
+                            "paragraph_id": 10,
+                            "text": "Filed pursuant to section 301.9100-2"
+                        },
+                        {
+                            "paragraph_id": 11,
+                            "text": "Combat zone"
+                        },
+                        {
+                            "paragraph_id": 12,
+                            "text": "Deceased MM      DD      YYYY"
+                        },
+                        {
+                            "paragraph_id": 13,
+                            "text": "/"
+                        },
+                        {
+                            "paragraph_id": 14,
+                            "text": "/"
+                        },
+                        {
+                            "paragraph_id": 15,
+                            "text": "Spouse MM      DD      YYYY"
+                        },
+                        {
+                            "paragraph_id": 16,
+                            "text": "/"
+                        },
+                        {
+                            "paragraph_id": 17,
+                            "text": "/"
+                        }
+                    ]
+                },
+                {
+                    "section_id": 3,
+                    "header": "Other",
+                    "paragraphs": [
+                        {
+                            "paragraph_id": 18,
+                            "text": "Your first name and middle initial"
+                        },
+                        {
+                            "paragraph_id": 19,
+                            "text": "Last name"
+                        },
+                        {
+                            "paragraph_id": 20,
+                            "text": "Your social security number"
+                        },
+                        {
+                            "paragraph_id": 21,
+                            "text": "If joint return, spouse’s first name and middle initial"
+                        },
+                        {
+                            "paragraph_id": 22,
+                            "text": "Last name"
+                        },
+                        {
+                            "paragraph_id": 23,
+                            "text": "Spouse’s social security number"
+                        },
+                        {
+                            "paragraph_id": 24,
+                            "text": "Home address (number and street). If you have a P.O. box, see instructions."
+                        },
+                        {
+                            "paragraph_id": 25,
+                            "text": "Apt. no."
+                        },
+                        {
+                            "paragraph_id": 26,
+                            "text": "City, town, or post office. If you have a foreign address, also complete spaces below."
+                        }
+                    ]
+                },
+                {
+                    "section_id": 4,
+                    "header": "State",
+                    "paragraphs": [
+                        {
+                            "paragraph_id": 27,
+                            "text": "ZIP code"
+                        },
+                        {
+                            "paragraph_id": 28,
+                            "text": "Foreign country name"
+                        },
+                        {
+                            "paragraph_id": 29,
+                            "text": "Foreign province/state/county                                       Foreign postal code"
+                        },
+                        {
+                            "paragraph_id": 30,
+                            "text": "Check here if your main home, and your"
+                        },
+                        {
+                            "paragraph_id": 31,
+                            "text": "spouse’s if filing a joint return, was in"
+                        },
+                        {
+                            "paragraph_id": 32,
+                            "text": "the U.S. for more than half of 2025."
+                        }
+                    ]
+                },
+                {
+                    "section_id": 5,
+                    "header": "Presidential Election Campaign",
+                    "paragraphs": [
+                        {
+                            "paragraph_id": 33,
+                            "text": "Check here if you, or your spouse"
+                        },
+                        {
+                            "paragraph_id": 34,
+                            "text": "if filing jointly, want $3 to go to"
+                        },
+                        {
+                            "paragraph_id": 35,
+                            "text": "this fund. Checking a box below"
+                        },
+                        {
+                            "paragraph_id": 36,
+                            "text": "will not change your tax or refund."
+                        }
+                    ]
+                },
+                {
+                    "section_id": 6,
+                    "header": "You",
+                    "paragraphs": []
+                },
+                {
+                    "section_id": 7,
+                    "header": "Spouse",
+                    "paragraphs": []
+                },
+                {
+                    "section_id": 8,
+                    "header": "Filing Status",
+                    "paragraphs": [
+                        {
+                            "paragraph_id": 37,
+                            "text": "Check only"
+                        },
+                        {
+                            "paragraph_id": 38,
+                            "text": "one box."
+                        }
+                    ]
+                },
+                {
+                    "section_id": 9,
+                    "header": "Single",
+                    "paragraphs": [
+                        {
+                            "paragraph_id": 39,
+                            "text": "Married filing jointly (even if only one had income)"
+                        },
+                        {
+                            "paragraph_id": 40,
+                            "text": "Married filing separately (MFS). Enter spouse’s SSN above"
+                        },
+                        {
+                            "paragraph_id": 41,
+                            "text": "and full name here:"
+                        },
+                        {
+                            "paragraph_id": 42,
+                            "text": "Head of household (HOH)"
+                        },
+                        {
+                            "paragraph_id": 43,
+                            "text": "Qualifying surviving spouse (QSS)"
+                        },
+                        {
+                            "paragraph_id": 44,
+                            "text": "If you checked the HOH or QSS box, enter the child’s name"
+                        },
+                        {
+                            "paragraph_id": 45,
+                            "text": "if the qualifying person is a child but not your dependent:"
+                        },
+                        {
+                            "paragraph_id": 46,
+                            "text": "If treating a nonresident alien or dual-status alien spouse as a U.S. resident for the entire tax year, check the box and enter their"
+                        },
+                        {
+                            "paragraph_id": 47,
+                            "text": "name (see instructions and attach statement if required):"
+                        }
+                    ]
+                },
+                {
+                    "section_id": 10,
+                    "header": "Digital Assets",
+                    "paragraphs": [
+                        {
+                            "paragraph_id": 48,
+                            "text": "At any time during 2025, did you: (a) receive (as a reward, award, or payment for property or services); or (b) sell,"
+                        },
+                        {
+                            "paragraph_id": 49,
+                            "text": "exchange, or otherwise dispose of a digital asset (or a financial interest in a digital asset)? (See instructions.)"
+                        },
+                        {
+                            "paragraph_id": 50,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 51,
+                            "text": "."
+                        }
+                    ]
+                },
+                {
+                    "section_id": 11,
+                    "header": "Yes",
+                    "paragraphs": []
+                },
+                {
+                    "section_id": 12,
+                    "header": "No",
+                    "paragraphs": []
+                },
+                {
+                    "section_id": 13,
+                    "header": "Dependents",
+                    "paragraphs": [
+                        {
+                            "paragraph_id": 52,
+                            "text": "(see instructions)"
+                        },
+                        {
+                            "paragraph_id": 53,
+                            "text": "If more"
+                        },
+                        {
+                            "paragraph_id": 54,
+                            "text": "than four"
+                        },
+                        {
+                            "paragraph_id": 55,
+                            "text": "dependents,"
+                        },
+                        {
+                            "paragraph_id": 56,
+                            "text": "see instructions"
+                        },
+                        {
+                            "paragraph_id": 57,
+                            "text": "and check"
+                        },
+                        {
+                            "paragraph_id": 58,
+                            "text": "here"
+                        },
+                        {
+                            "paragraph_id": 59,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 60,
+                            "text": "."
+                        }
+                    ]
+                },
+                {
+                    "section_id": 14,
+                    "header": "Dependent 1",
+                    "paragraphs": []
+                },
+                {
+                    "section_id": 15,
+                    "header": "Dependent 2",
+                    "paragraphs": []
+                },
+                {
+                    "section_id": 16,
+                    "header": "Dependent 3",
+                    "paragraphs": []
+                },
+                {
+                    "section_id": 17,
+                    "header": "Dependent 4",
+                    "paragraphs": [
+                        {
+                            "paragraph_id": 61,
+                            "text": "(1) First name"
+                        },
+                        {
+                            "paragraph_id": 62,
+                            "text": "(2) Last name"
+                        }
+                    ]
+                },
+                {
+                    "section_id": 18,
+                    "header": "(3) SSN",
+                    "paragraphs": []
+                },
+                {
+                    "section_id": 19,
+                    "header": "(4) Relationship",
+                    "paragraphs": [
+                        {
+                            "paragraph_id": 63,
+                            "text": "(5) Check if lived"
+                        },
+                        {
+                            "paragraph_id": 64,
+                            "text": "with you more"
+                        },
+                        {
+                            "paragraph_id": 65,
+                            "text": "than half of 2025"
+                        },
+                        {
+                            "paragraph_id": 66,
+                            "text": "(a)"
+                        }
+                    ]
+                },
+                {
+                    "section_id": 20,
+                    "header": "Yes",
+                    "paragraphs": [
+                        {
+                            "paragraph_id": 67,
+                            "text": "(b)"
+                        },
+                        {
+                            "paragraph_id": 68,
+                            "text": "And in the U.S."
+                        },
+                        {
+                            "paragraph_id": 69,
+                            "text": "(a)"
+                        }
+                    ]
+                },
+                {
+                    "section_id": 21,
+                    "header": "Yes",
+                    "paragraphs": [
+                        {
+                            "paragraph_id": 70,
+                            "text": "(b)"
+                        },
+                        {
+                            "paragraph_id": 71,
+                            "text": "And in the U.S."
+                        },
+                        {
+                            "paragraph_id": 72,
+                            "text": "(a)"
+                        }
+                    ]
+                },
+                {
+                    "section_id": 22,
+                    "header": "Yes",
+                    "paragraphs": [
+                        {
+                            "paragraph_id": 73,
+                            "text": "(b)"
+                        },
+                        {
+                            "paragraph_id": 74,
+                            "text": "And in the U.S."
+                        },
+                        {
+                            "paragraph_id": 75,
+                            "text": "(a)"
+                        }
+                    ]
+                },
+                {
+                    "section_id": 23,
+                    "header": "Yes",
+                    "paragraphs": [
+                        {
+                            "paragraph_id": 76,
+                            "text": "(b)"
+                        },
+                        {
+                            "paragraph_id": 77,
+                            "text": "And in the U.S."
+                        },
+                        {
+                            "paragraph_id": 78,
+                            "text": "(6) Check if"
+                        },
+                        {
+                            "paragraph_id": 79,
+                            "text": "Full-time"
+                        },
+                        {
+                            "paragraph_id": 80,
+                            "text": "student"
+                        }
+                    ]
+                },
+                {
+                    "section_id": 24,
+                    "header": "Permanently",
+                    "paragraphs": [
+                        {
+                            "paragraph_id": 81,
+                            "text": "and totally"
+                        },
+                        {
+                            "paragraph_id": 82,
+                            "text": "disabled"
+                        },
+                        {
+                            "paragraph_id": 83,
+                            "text": "Full-time"
+                        },
+                        {
+                            "paragraph_id": 84,
+                            "text": "student"
+                        }
+                    ]
+                },
+                {
+                    "section_id": 25,
+                    "header": "Permanently",
+                    "paragraphs": [
+                        {
+                            "paragraph_id": 85,
+                            "text": "and totally"
+                        },
+                        {
+                            "paragraph_id": 86,
+                            "text": "disabled"
+                        },
+                        {
+                            "paragraph_id": 87,
+                            "text": "Full-time"
+                        },
+                        {
+                            "paragraph_id": 88,
+                            "text": "student"
+                        }
+                    ]
+                },
+                {
+                    "section_id": 26,
+                    "header": "Permanently",
+                    "paragraphs": [
+                        {
+                            "paragraph_id": 89,
+                            "text": "and totally"
+                        },
+                        {
+                            "paragraph_id": 90,
+                            "text": "disabled"
+                        },
+                        {
+                            "paragraph_id": 91,
+                            "text": "Full-time"
+                        },
+                        {
+                            "paragraph_id": 92,
+                            "text": "student"
+                        }
+                    ]
+                },
+                {
+                    "section_id": 27,
+                    "header": "Permanently",
+                    "paragraphs": [
+                        {
+                            "paragraph_id": 93,
+                            "text": "and totally"
+                        },
+                        {
+                            "paragraph_id": 94,
+                            "text": "disabled"
+                        }
+                    ]
+                },
+                {
+                    "section_id": 28,
+                    "header": "(7) Credits",
+                    "paragraphs": [
+                        {
+                            "paragraph_id": 95,
+                            "text": "Child tax"
+                        },
+                        {
+                            "paragraph_id": 96,
+                            "text": "credit"
+                        },
+                        {
+                            "paragraph_id": 97,
+                            "text": "Credit for"
+                        },
+                        {
+                            "paragraph_id": 98,
+                            "text": "other"
+                        },
+                        {
+                            "paragraph_id": 99,
+                            "text": "dependents"
+                        },
+                        {
+                            "paragraph_id": 100,
+                            "text": "Child tax"
+                        },
+                        {
+                            "paragraph_id": 101,
+                            "text": "credit"
+                        },
+                        {
+                            "paragraph_id": 102,
+                            "text": "Credit for"
+                        },
+                        {
+                            "paragraph_id": 103,
+                            "text": "other"
+                        },
+                        {
+                            "paragraph_id": 104,
+                            "text": "dependents"
+                        },
+                        {
+                            "paragraph_id": 105,
+                            "text": "Child tax"
+                        },
+                        {
+                            "paragraph_id": 106,
+                            "text": "credit"
+                        },
+                        {
+                            "paragraph_id": 107,
+                            "text": "Credit for"
+                        },
+                        {
+                            "paragraph_id": 108,
+                            "text": "other"
+                        },
+                        {
+                            "paragraph_id": 109,
+                            "text": "dependents"
+                        },
+                        {
+                            "paragraph_id": 110,
+                            "text": "Child tax"
+                        },
+                        {
+                            "paragraph_id": 111,
+                            "text": "credit"
+                        },
+                        {
+                            "paragraph_id": 112,
+                            "text": "Credit for"
+                        },
+                        {
+                            "paragraph_id": 113,
+                            "text": "other"
+                        },
+                        {
+                            "paragraph_id": 114,
+                            "text": "dependents"
+                        },
+                        {
+                            "paragraph_id": 115,
+                            "text": "Check if your filing status is MFS or HOH and you lived apart from your spouse for the last 6 months of 2025, or you are legally"
+                        },
+                        {
+                            "paragraph_id": 116,
+                            "text": "separated according to your state law under a written separation agreement or a decree of separate maintenance and you did not"
+                        },
+                        {
+                            "paragraph_id": 117,
+                            "text": "live in the same household as your spouse at the end of 2025."
+                        }
+                    ]
+                },
+                {
+                    "section_id": 29,
+                    "header": "Income",
+                    "paragraphs": [
+                        {
+                            "paragraph_id": 118,
+                            "text": "Attach Form(s)"
+                        },
+                        {
+                            "paragraph_id": 119,
+                            "text": "W-2 here. Also"
+                        },
+                        {
+                            "paragraph_id": 120,
+                            "text": "attach Forms"
+                        },
+                        {
+                            "paragraph_id": 121,
+                            "text": "W-2G and"
+                        },
+                        {
+                            "paragraph_id": 122,
+                            "text": "1099-R if tax"
+                        },
+                        {
+                            "paragraph_id": 123,
+                            "text": "was withheld."
+                        },
+                        {
+                            "paragraph_id": 124,
+                            "text": "If you did not"
+                        },
+                        {
+                            "paragraph_id": 125,
+                            "text": "get a Form"
+                        },
+                        {
+                            "paragraph_id": 126,
+                            "text": "W-2, see"
+                        },
+                        {
+                            "paragraph_id": 127,
+                            "text": "instructions."
+                        },
+                        {
+                            "paragraph_id": 128,
+                            "text": "1 a"
+                        },
+                        {
+                            "paragraph_id": 129,
+                            "text": "Total amount from Form(s) W-2, box 1 (see instructions)"
+                        },
+                        {
+                            "paragraph_id": 130,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 131,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 132,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 133,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 134,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 135,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 136,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 137,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 138,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 139,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 140,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 141,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 142,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 143,
+                            "text": "1a"
+                        },
+                        {
+                            "paragraph_id": 144,
+                            "text": "b"
+                        },
+                        {
+                            "paragraph_id": 145,
+                            "text": "Household employee wages not reported on Form(s) W-2 ."
+                        },
+                        {
+                            "paragraph_id": 146,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 147,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 148,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 149,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 150,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 151,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 152,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 153,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 154,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 155,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 156,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 157,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 158,
+                            "text": "1b"
+                        },
+                        {
+                            "paragraph_id": 159,
+                            "text": "c"
+                        },
+                        {
+                            "paragraph_id": 160,
+                            "text": "Tip income not reported on line 1a (see instructions)"
+                        },
+                        {
+                            "paragraph_id": 161,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 162,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 163,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 164,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 165,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 166,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 167,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 168,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 169,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 170,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 171,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 172,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 173,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 174,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 175,
+                            "text": "1c"
+                        },
+                        {
+                            "paragraph_id": 176,
+                            "text": "d"
+                        },
+                        {
+                            "paragraph_id": 177,
+                            "text": "Medicaid waiver payments not reported on Form(s) W-2 (see instructions)  ."
+                        },
+                        {
+                            "paragraph_id": 178,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 179,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 180,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 181,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 182,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 183,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 184,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 185,
+                            "text": "1d"
+                        },
+                        {
+                            "paragraph_id": 186,
+                            "text": "e"
+                        },
+                        {
+                            "paragraph_id": 187,
+                            "text": "Taxable dependent care benefits from Form 2441, line 26"
+                        },
+                        {
+                            "paragraph_id": 188,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 189,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 190,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 191,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 192,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 193,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 194,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 195,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 196,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 197,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 198,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 199,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 200,
+                            "text": "1e"
+                        },
+                        {
+                            "paragraph_id": 201,
+                            "text": "f"
+                        },
+                        {
+                            "paragraph_id": 202,
+                            "text": "Employer-provided adoption benefits from Form 8839, line 31"
+                        },
+                        {
+                            "paragraph_id": 203,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 204,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 205,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 206,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 207,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 208,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 209,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 210,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 211,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 212,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 213,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 214,
+                            "text": "1f"
+                        },
+                        {
+                            "paragraph_id": 215,
+                            "text": "g"
+                        },
+                        {
+                            "paragraph_id": 216,
+                            "text": "Wages from Form 8919, line 6  ."
+                        },
+                        {
+                            "paragraph_id": 217,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 218,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 219,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 220,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 221,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 222,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 223,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 224,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 225,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 226,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 227,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 228,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 229,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 230,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 231,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 232,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 233,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 234,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 235,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 236,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 237,
+                            "text": "1g"
+                        },
+                        {
+                            "paragraph_id": 238,
+                            "text": "h"
+                        },
+                        {
+                            "paragraph_id": 239,
+                            "text": "Other earned income (see instructions). Enter type and amount:"
+                        },
+                        {
+                            "paragraph_id": 240,
+                            "text": "1h"
+                        },
+                        {
+                            "paragraph_id": 241,
+                            "text": "i"
+                        },
+                        {
+                            "paragraph_id": 242,
+                            "text": "Nontaxable combat pay election (see instructions)  ."
+                        },
+                        {
+                            "paragraph_id": 243,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 244,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 245,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 246,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 247,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 248,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 249,
+                            "text": "1i"
+                        },
+                        {
+                            "paragraph_id": 250,
+                            "text": "z"
+                        },
+                        {
+                            "paragraph_id": 251,
+                            "text": "Add lines 1a through 1h"
+                        },
+                        {
+                            "paragraph_id": 252,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 253,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 254,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 255,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 256,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 257,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 258,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 259,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 260,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 261,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 262,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 263,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 264,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 265,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 266,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 267,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 268,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 269,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 270,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 271,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 272,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 273,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 274,
+                            "text": "1z"
+                        }
+                    ]
+                },
+                {
+                    "section_id": 30,
+                    "header": "Attach Sch. B",
+                    "paragraphs": [
+                        {
+                            "paragraph_id": 275,
+                            "text": "if required."
+                        },
+                        {
+                            "paragraph_id": 276,
+                            "text": "2a"
+                        },
+                        {
+                            "paragraph_id": 277,
+                            "text": "Tax-exempt interest ."
+                        },
+                        {
+                            "paragraph_id": 278,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 279,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 280,
+                            "text": "2a"
+                        },
+                        {
+                            "paragraph_id": 281,
+                            "text": "b  Taxable interest"
+                        },
+                        {
+                            "paragraph_id": 282,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 283,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 284,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 285,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 286,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 287,
+                            "text": "2b"
+                        },
+                        {
+                            "paragraph_id": 288,
+                            "text": "3a"
+                        },
+                        {
+                            "paragraph_id": 289,
+                            "text": "Qualified dividends ."
+                        },
+                        {
+                            "paragraph_id": 290,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 291,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 292,
+                            "text": "3a"
+                        },
+                        {
+                            "paragraph_id": 293,
+                            "text": "b  Ordinary dividends ."
+                        },
+                        {
+                            "paragraph_id": 294,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 295,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 296,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 297,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 298,
+                            "text": "3b"
+                        },
+                        {
+                            "paragraph_id": 299,
+                            "text": "c"
+                        },
+                        {
+                            "paragraph_id": 300,
+                            "text": "Check if your child’s dividends are included in"
+                        },
+                        {
+                            "paragraph_id": 301,
+                            "text": "1"
+                        },
+                        {
+                            "paragraph_id": 302,
+                            "text": "Line 3a"
+                        },
+                        {
+                            "paragraph_id": 303,
+                            "text": "2"
+                        },
+                        {
+                            "paragraph_id": 304,
+                            "text": "Line 3b"
+                        },
+                        {
+                            "paragraph_id": 305,
+                            "text": "4a"
+                        },
+                        {
+                            "paragraph_id": 306,
+                            "text": "IRA distributions ."
+                        },
+                        {
+                            "paragraph_id": 307,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 308,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 309,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 310,
+                            "text": "4a"
+                        },
+                        {
+                            "paragraph_id": 311,
+                            "text": "b  Taxable amount ."
+                        },
+                        {
+                            "paragraph_id": 312,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 313,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 314,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 315,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 316,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 317,
+                            "text": "4b"
+                        },
+                        {
+                            "paragraph_id": 318,
+                            "text": "c"
+                        },
+                        {
+                            "paragraph_id": 319,
+                            "text": "Check if (see instructions)"
+                        },
+                        {
+                            "paragraph_id": 320,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 321,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 322,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 323,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 324,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 325,
+                            "text": "1"
+                        }
+                    ]
+                },
+                {
+                    "section_id": 31,
+                    "header": "Rollover",
+                    "paragraphs": [
+                        {
+                            "paragraph_id": 326,
+                            "text": "2"
+                        }
+                    ]
+                },
+                {
+                    "section_id": 32,
+                    "header": "QCD",
+                    "paragraphs": [
+                        {
+                            "paragraph_id": 327,
+                            "text": "3"
+                        },
+                        {
+                            "paragraph_id": 328,
+                            "text": "5a"
+                        },
+                        {
+                            "paragraph_id": 329,
+                            "text": "Pensions and annuities ."
+                        },
+                        {
+                            "paragraph_id": 330,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 331,
+                            "text": "5a"
+                        },
+                        {
+                            "paragraph_id": 332,
+                            "text": "b  Taxable amount ."
+                        },
+                        {
+                            "paragraph_id": 333,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 334,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 335,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 336,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 337,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 338,
+                            "text": "5b"
+                        },
+                        {
+                            "paragraph_id": 339,
+                            "text": "c"
+                        },
+                        {
+                            "paragraph_id": 340,
+                            "text": "Check if (see instructions)"
+                        },
+                        {
+                            "paragraph_id": 341,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 342,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 343,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 344,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 345,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 346,
+                            "text": "1"
+                        }
+                    ]
+                },
+                {
+                    "section_id": 33,
+                    "header": "Rollover",
+                    "paragraphs": [
+                        {
+                            "paragraph_id": 347,
+                            "text": "2"
+                        }
+                    ]
+                },
+                {
+                    "section_id": 34,
+                    "header": "PSO",
+                    "paragraphs": [
+                        {
+                            "paragraph_id": 348,
+                            "text": "3"
+                        },
+                        {
+                            "paragraph_id": 349,
+                            "text": "6a"
+                        },
+                        {
+                            "paragraph_id": 350,
+                            "text": "Social security benefits ."
+                        },
+                        {
+                            "paragraph_id": 351,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 352,
+                            "text": "6a"
+                        },
+                        {
+                            "paragraph_id": 353,
+                            "text": "b  Taxable amount ."
+                        },
+                        {
+                            "paragraph_id": 354,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 355,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 356,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 357,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 358,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 359,
+                            "text": "6b"
+                        },
+                        {
+                            "paragraph_id": 360,
+                            "text": "c"
+                        },
+                        {
+                            "paragraph_id": 361,
+                            "text": "If you elect to use the lump-sum election method, check here (see instructions)"
+                        },
+                        {
+                            "paragraph_id": 362,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 363,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 364,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 365,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 366,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 367,
+                            "text": "d"
+                        },
+                        {
+                            "paragraph_id": 368,
+                            "text": "If you are married filing separately and lived apart from your spouse the entire year (see inst.), check here"
+                        },
+                        {
+                            "paragraph_id": 369,
+                            "text": "7a"
+                        },
+                        {
+                            "paragraph_id": 370,
+                            "text": "Capital gain or (loss). Attach Schedule D if required"
+                        },
+                        {
+                            "paragraph_id": 371,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 372,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 373,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 374,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 375,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 376,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 377,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 378,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 379,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 380,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 381,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 382,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 383,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 384,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 385,
+                            "text": "7a"
+                        },
+                        {
+                            "paragraph_id": 386,
+                            "text": "b"
+                        },
+                        {
+                            "paragraph_id": 387,
+                            "text": "Check if:"
+                        },
+                        {
+                            "paragraph_id": 388,
+                            "text": "Schedule D not required"
+                        },
+                        {
+                            "paragraph_id": 389,
+                            "text": "Includes child’s capital gain or (loss)"
+                        },
+                        {
+                            "paragraph_id": 390,
+                            "text": "8"
+                        },
+                        {
+                            "paragraph_id": 391,
+                            "text": "Additional income from Schedule 1, line 10 ."
+                        },
+                        {
+                            "paragraph_id": 392,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 393,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 394,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 395,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 396,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 397,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 398,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 399,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 400,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 401,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 402,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 403,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 404,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 405,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 406,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 407,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 408,
+                            "text": "8"
+                        },
+                        {
+                            "paragraph_id": 409,
+                            "text": "9"
+                        },
+                        {
+                            "paragraph_id": 410,
+                            "text": "Add lines 1z, 2b, 3b, 4b, 5b, 6b, 7a, and 8. This is your total income"
+                        },
+                        {
+                            "paragraph_id": 411,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 412,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 413,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 414,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 415,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 416,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 417,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 418,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 419,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 420,
+                            "text": "9"
+                        },
+                        {
+                            "paragraph_id": 421,
+                            "text": "10"
+                        },
+                        {
+                            "paragraph_id": 422,
+                            "text": "Adjustments to income from Schedule 1, line 26"
+                        },
+                        {
+                            "paragraph_id": 423,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 424,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 425,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 426,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 427,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 428,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 429,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 430,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 431,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 432,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 433,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 434,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 435,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 436,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 437,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 438,
+                            "text": "10"
+                        },
+                        {
+                            "paragraph_id": 439,
+                            "text": "11a"
+                        },
+                        {
+                            "paragraph_id": 440,
+                            "text": "Subtract line 10 from line 9. This is your adjusted gross income"
+                        },
+                        {
+                            "paragraph_id": 441,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 442,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 443,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 444,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 445,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 446,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 447,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 448,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 449,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 450,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 451,
+                            "text": "11a"
+                        },
+                        {
+                            "paragraph_id": 452,
+                            "text": "For Disclosure, Privacy Act, and Paperwork Reduction Act Notice, see separate instructions."
+                        }
+                    ]
+                },
+                {
+                    "section_id": 35,
+                    "header": "Cat. No. 11320B",
+                    "paragraphs": []
+                },
+                {
+                    "section_id": 36,
+                    "header": "Form 1040 (2025) Created 9/5/25",
+                    "paragraphs": []
+                }
+            ],
+            "unclassified_content": []
+        },
+        {
+            "page_id": 2,
+            "page_number": 2,
+            "sections": [
+                {
+                    "section_id": 37,
+                    "header": "Form 1040 (2025)",
+                    "paragraphs": []
+                },
+                {
+                    "section_id": 38,
+                    "header": "Page 2",
+                    "paragraphs": [
+                        {
+                            "paragraph_id": 453,
+                            "text": "Tax and"
+                        }
+                    ]
+                },
+                {
+                    "section_id": 39,
+                    "header": "Credits",
+                    "paragraphs": [
+                        {
+                            "paragraph_id": 454,
+                            "text": "11b"
+                        },
+                        {
+                            "paragraph_id": 455,
+                            "text": "Amount from line 11a (adjusted gross income) ."
+                        },
+                        {
+                            "paragraph_id": 456,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 457,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 458,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 459,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 460,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 461,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 462,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 463,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 464,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 465,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 466,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 467,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 468,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 469,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 470,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 471,
+                            "text": "11b"
+                        },
+                        {
+                            "paragraph_id": 472,
+                            "text": "12a"
+                        },
+                        {
+                            "paragraph_id": 473,
+                            "text": "Someone can claim"
+                        },
+                        {
+                            "paragraph_id": 474,
+                            "text": "You as a dependent"
+                        },
+                        {
+                            "paragraph_id": 475,
+                            "text": "Your spouse as a dependent"
+                        },
+                        {
+                            "paragraph_id": 476,
+                            "text": "b"
+                        },
+                        {
+                            "paragraph_id": 477,
+                            "text": "Spouse itemizes on a separate return"
+                        },
+                        {
+                            "paragraph_id": 478,
+                            "text": "c"
+                        },
+                        {
+                            "paragraph_id": 479,
+                            "text": "You were a dual-status alien"
+                        },
+                        {
+                            "paragraph_id": 480,
+                            "text": "d"
+                        }
+                    ]
+                },
+                {
+                    "section_id": 40,
+                    "header": "You:",
+                    "paragraphs": [
+                        {
+                            "paragraph_id": 481,
+                            "text": "Were born before January 2, 1961"
+                        },
+                        {
+                            "paragraph_id": 482,
+                            "text": "Are blind"
+                        }
+                    ]
+                },
+                {
+                    "section_id": 41,
+                    "header": "Spouse:",
+                    "paragraphs": [
+                        {
+                            "paragraph_id": 483,
+                            "text": "Was born before January 2, 1961"
+                        },
+                        {
+                            "paragraph_id": 484,
+                            "text": "Is blind"
+                        }
+                    ]
+                },
+                {
+                    "section_id": 42,
+                    "header": "Standard",
+                    "paragraphs": [
+                        {
+                            "paragraph_id": 485,
+                            "text": "deduction for—"
+                        },
+                        {
+                            "paragraph_id": 486,
+                            "text": "• Single or"
+                        },
+                        {
+                            "paragraph_id": 487,
+                            "text": "Married filing"
+                        },
+                        {
+                            "paragraph_id": 488,
+                            "text": "separately,"
+                        },
+                        {
+                            "paragraph_id": 489,
+                            "text": "$15,750"
+                        },
+                        {
+                            "paragraph_id": 490,
+                            "text": "• Married filing"
+                        },
+                        {
+                            "paragraph_id": 491,
+                            "text": "jointly or"
+                        }
+                    ]
+                },
+                {
+                    "section_id": 43,
+                    "header": "Qualifying",
+                    "paragraphs": [
+                        {
+                            "paragraph_id": 492,
+                            "text": "surviving"
+                        },
+                        {
+                            "paragraph_id": 493,
+                            "text": "spouse,"
+                        },
+                        {
+                            "paragraph_id": 494,
+                            "text": "$31,500"
+                        },
+                        {
+                            "paragraph_id": 495,
+                            "text": "• Head of"
+                        },
+                        {
+                            "paragraph_id": 496,
+                            "text": "household,"
+                        },
+                        {
+                            "paragraph_id": 497,
+                            "text": "$23,625"
+                        },
+                        {
+                            "paragraph_id": 498,
+                            "text": "• If you checked"
+                        },
+                        {
+                            "paragraph_id": 499,
+                            "text": "a box on line"
+                        },
+                        {
+                            "paragraph_id": 500,
+                            "text": "12a, 12b, 12c,"
+                        },
+                        {
+                            "paragraph_id": 501,
+                            "text": "or 12d, see inst."
+                        },
+                        {
+                            "paragraph_id": 502,
+                            "text": "e"
+                        },
+                        {
+                            "paragraph_id": 503,
+                            "text": "Standard deduction or itemized deductions (from Schedule A) ."
+                        },
+                        {
+                            "paragraph_id": 504,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 505,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 506,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 507,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 508,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 509,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 510,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 511,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 512,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 513,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 514,
+                            "text": "12e"
+                        },
+                        {
+                            "paragraph_id": 515,
+                            "text": "13a"
+                        },
+                        {
+                            "paragraph_id": 516,
+                            "text": "Qualified business income deduction from Form 8995 or Form 8995-A ."
+                        },
+                        {
+                            "paragraph_id": 517,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 518,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 519,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 520,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 521,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 522,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 523,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 524,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 525,
+                            "text": "13a"
+                        },
+                        {
+                            "paragraph_id": 526,
+                            "text": "b"
+                        },
+                        {
+                            "paragraph_id": 527,
+                            "text": "Additional deductions from Schedule 1-A, line 38"
+                        },
+                        {
+                            "paragraph_id": 528,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 529,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 530,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 531,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 532,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 533,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 534,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 535,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 536,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 537,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 538,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 539,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 540,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 541,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 542,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 543,
+                            "text": "13b"
+                        },
+                        {
+                            "paragraph_id": 544,
+                            "text": "14"
+                        },
+                        {
+                            "paragraph_id": 545,
+                            "text": "Add lines 12e, 13a, and 13b"
+                        },
+                        {
+                            "paragraph_id": 546,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 547,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 548,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 549,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 550,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 551,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 552,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 553,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 554,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 555,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 556,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 557,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 558,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 559,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 560,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 561,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 562,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 563,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 564,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 565,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 566,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 567,
+                            "text": "14"
+                        },
+                        {
+                            "paragraph_id": 568,
+                            "text": "15"
+                        },
+                        {
+                            "paragraph_id": 569,
+                            "text": "Subtract line 14 from line 11b. If zero or less, enter -0-. This is your taxable income"
+                        },
+                        {
+                            "paragraph_id": 570,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 571,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 572,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 573,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 574,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 575,
+                            "text": "15"
+                        },
+                        {
+                            "paragraph_id": 576,
+                            "text": "16"
+                        },
+                        {
+                            "paragraph_id": 577,
+                            "text": "Tax (see instructions). Check if any from Form(s):"
+                        },
+                        {
+                            "paragraph_id": 578,
+                            "text": "1"
+                        },
+                        {
+                            "paragraph_id": 579,
+                            "text": "8814"
+                        },
+                        {
+                            "paragraph_id": 580,
+                            "text": "2"
+                        },
+                        {
+                            "paragraph_id": 581,
+                            "text": "4972"
+                        },
+                        {
+                            "paragraph_id": 582,
+                            "text": "3"
+                        },
+                        {
+                            "paragraph_id": 583,
+                            "text": "16"
+                        },
+                        {
+                            "paragraph_id": 584,
+                            "text": "17"
+                        },
+                        {
+                            "paragraph_id": 585,
+                            "text": "Amount from Schedule 2, line 3"
+                        },
+                        {
+                            "paragraph_id": 586,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 587,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 588,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 589,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 590,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 591,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 592,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 593,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 594,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 595,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 596,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 597,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 598,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 599,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 600,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 601,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 602,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 603,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 604,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 605,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 606,
+                            "text": "17"
+                        },
+                        {
+                            "paragraph_id": 607,
+                            "text": "18"
+                        },
+                        {
+                            "paragraph_id": 608,
+                            "text": "Add lines 16 and 17 ."
+                        },
+                        {
+                            "paragraph_id": 609,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 610,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 611,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 612,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 613,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 614,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 615,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 616,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 617,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 618,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 619,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 620,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 621,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 622,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 623,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 624,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 625,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 626,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 627,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 628,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 629,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 630,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 631,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 632,
+                            "text": "18"
+                        },
+                        {
+                            "paragraph_id": 633,
+                            "text": "19"
+                        },
+                        {
+                            "paragraph_id": 634,
+                            "text": "Child tax credit or credit for other dependents from Schedule 8812 ."
+                        },
+                        {
+                            "paragraph_id": 635,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 636,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 637,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 638,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 639,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 640,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 641,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 642,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 643,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 644,
+                            "text": "19"
+                        },
+                        {
+                            "paragraph_id": 645,
+                            "text": "20"
+                        },
+                        {
+                            "paragraph_id": 646,
+                            "text": "Amount from Schedule 3, line 8"
+                        },
+                        {
+                            "paragraph_id": 647,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 648,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 649,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 650,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 651,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 652,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 653,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 654,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 655,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 656,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 657,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 658,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 659,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 660,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 661,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 662,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 663,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 664,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 665,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 666,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 667,
+                            "text": "20"
+                        },
+                        {
+                            "paragraph_id": 668,
+                            "text": "21"
+                        },
+                        {
+                            "paragraph_id": 669,
+                            "text": "Add lines 19 and 20 ."
+                        },
+                        {
+                            "paragraph_id": 670,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 671,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 672,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 673,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 674,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 675,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 676,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 677,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 678,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 679,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 680,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 681,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 682,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 683,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 684,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 685,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 686,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 687,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 688,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 689,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 690,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 691,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 692,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 693,
+                            "text": "21"
+                        },
+                        {
+                            "paragraph_id": 694,
+                            "text": "22"
+                        },
+                        {
+                            "paragraph_id": 695,
+                            "text": "Subtract line 21 from line 18. If zero or less, enter -0- ."
+                        },
+                        {
+                            "paragraph_id": 696,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 697,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 698,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 699,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 700,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 701,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 702,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 703,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 704,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 705,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 706,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 707,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 708,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 709,
+                            "text": "22"
+                        },
+                        {
+                            "paragraph_id": 710,
+                            "text": "23"
+                        },
+                        {
+                            "paragraph_id": 711,
+                            "text": "Other taxes, including self-employment tax, from Schedule 2, line 21"
+                        },
+                        {
+                            "paragraph_id": 712,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 713,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 714,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 715,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 716,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 717,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 718,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 719,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 720,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 721,
+                            "text": "23"
+                        },
+                        {
+                            "paragraph_id": 722,
+                            "text": "24"
+                        },
+                        {
+                            "paragraph_id": 723,
+                            "text": "Add lines 22 and 23. This is your total tax"
+                        },
+                        {
+                            "paragraph_id": 724,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 725,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 726,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 727,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 728,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 729,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 730,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 731,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 732,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 733,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 734,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 735,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 736,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 737,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 738,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 739,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 740,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 741,
+                            "text": "24"
+                        }
+                    ]
+                },
+                {
+                    "section_id": 44,
+                    "header": "Payments",
+                    "paragraphs": [
+                        {
+                            "paragraph_id": 742,
+                            "text": "and"
+                        }
+                    ]
+                },
+                {
+                    "section_id": 45,
+                    "header": "Refundable",
+                    "paragraphs": []
+                },
+                {
+                    "section_id": 46,
+                    "header": "Credits",
+                    "paragraphs": [
+                        {
+                            "paragraph_id": 743,
+                            "text": "25"
+                        },
+                        {
+                            "paragraph_id": 744,
+                            "text": "Federal income tax withheld from:"
+                        },
+                        {
+                            "paragraph_id": 745,
+                            "text": "a"
+                        },
+                        {
+                            "paragraph_id": 746,
+                            "text": "Form(s) W-2"
+                        },
+                        {
+                            "paragraph_id": 747,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 748,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 749,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 750,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 751,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 752,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 753,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 754,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 755,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 756,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 757,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 758,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 759,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 760,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 761,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 762,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 763,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 764,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 765,
+                            "text": "25a"
+                        },
+                        {
+                            "paragraph_id": 766,
+                            "text": "b"
+                        },
+                        {
+                            "paragraph_id": 767,
+                            "text": "Form(s) 1099 ."
+                        },
+                        {
+                            "paragraph_id": 768,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 769,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 770,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 771,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 772,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 773,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 774,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 775,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 776,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 777,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 778,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 779,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 780,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 781,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 782,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 783,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 784,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 785,
+                            "text": "25b"
+                        },
+                        {
+                            "paragraph_id": 786,
+                            "text": "c"
+                        },
+                        {
+                            "paragraph_id": 787,
+                            "text": "Other forms (see instructions) ."
+                        },
+                        {
+                            "paragraph_id": 788,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 789,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 790,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 791,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 792,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 793,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 794,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 795,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 796,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 797,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 798,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 799,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 800,
+                            "text": "25c"
+                        },
+                        {
+                            "paragraph_id": 801,
+                            "text": "d"
+                        },
+                        {
+                            "paragraph_id": 802,
+                            "text": "Add lines 25a through 25c ."
+                        },
+                        {
+                            "paragraph_id": 803,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 804,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 805,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 806,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 807,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 808,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 809,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 810,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 811,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 812,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 813,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 814,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 815,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 816,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 817,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 818,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 819,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 820,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 821,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 822,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 823,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 824,
+                            "text": "25d"
+                        },
+                        {
+                            "paragraph_id": 825,
+                            "text": "26"
+                        },
+                        {
+                            "paragraph_id": 826,
+                            "text": "2025 estimated tax payments and amount applied from 2024 return ."
+                        },
+                        {
+                            "paragraph_id": 827,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 828,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 829,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 830,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 831,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 832,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 833,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 834,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 835,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 836,
+                            "text": "26"
+                        },
+                        {
+                            "paragraph_id": 837,
+                            "text": "If you made estimated tax payments with your former spouse in 2025,"
+                        },
+                        {
+                            "paragraph_id": 838,
+                            "text": "enter their SSN (see instructions):"
+                        },
+                        {
+                            "paragraph_id": 839,
+                            "text": "If you have a"
+                        },
+                        {
+                            "paragraph_id": 840,
+                            "text": "qualifying child,"
+                        },
+                        {
+                            "paragraph_id": 841,
+                            "text": "you may need to"
+                        },
+                        {
+                            "paragraph_id": 842,
+                            "text": "attach Sch. EIC."
+                        },
+                        {
+                            "paragraph_id": 843,
+                            "text": "27a"
+                        },
+                        {
+                            "paragraph_id": 844,
+                            "text": "Earned income credit (EIC) ."
+                        },
+                        {
+                            "paragraph_id": 845,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 846,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 847,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 848,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 849,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 850,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 851,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 852,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 853,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 854,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 855,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 856,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 857,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 858,
+                            "text": "27a"
+                        },
+                        {
+                            "paragraph_id": 859,
+                            "text": "b"
+                        },
+                        {
+                            "paragraph_id": 860,
+                            "text": "Clergy filing Schedule SE (see instructions)   ."
+                        },
+                        {
+                            "paragraph_id": 861,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 862,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 863,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 864,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 865,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 866,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 867,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 868,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 869,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 870,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 871,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 872,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 873,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 874,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 875,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 876,
+                            "text": "c"
+                        },
+                        {
+                            "paragraph_id": 877,
+                            "text": "If you do not want to claim the EIC, check here  ."
+                        },
+                        {
+                            "paragraph_id": 878,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 879,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 880,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 881,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 882,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 883,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 884,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 885,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 886,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 887,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 888,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 889,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 890,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 891,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 892,
+                            "text": "28"
+                        },
+                        {
+                            "paragraph_id": 893,
+                            "text": "Additional child tax credit (ACTC) from Schedule 8812. If you do not want"
+                        },
+                        {
+                            "paragraph_id": 894,
+                            "text": "to claim the ACTC, check here ."
+                        },
+                        {
+                            "paragraph_id": 895,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 896,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 897,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 898,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 899,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 900,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 901,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 902,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 903,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 904,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 905,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 906,
+                            "text": "28"
+                        },
+                        {
+                            "paragraph_id": 907,
+                            "text": "29"
+                        },
+                        {
+                            "paragraph_id": 908,
+                            "text": "American opportunity credit from Form 8863, line 8 ."
+                        },
+                        {
+                            "paragraph_id": 909,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 910,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 911,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 912,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 913,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 914,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 915,
+                            "text": "29"
+                        },
+                        {
+                            "paragraph_id": 916,
+                            "text": "30"
+                        },
+                        {
+                            "paragraph_id": 917,
+                            "text": "Refundable adoption credit from Form 8839, line 13"
+                        },
+                        {
+                            "paragraph_id": 918,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 919,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 920,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 921,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 922,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 923,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 924,
+                            "text": "30"
+                        },
+                        {
+                            "paragraph_id": 925,
+                            "text": "31"
+                        },
+                        {
+                            "paragraph_id": 926,
+                            "text": "Amount from Schedule 3, line 15 ."
+                        },
+                        {
+                            "paragraph_id": 927,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 928,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 929,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 930,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 931,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 932,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 933,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 934,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 935,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 936,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 937,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 938,
+                            "text": "31"
+                        },
+                        {
+                            "paragraph_id": 939,
+                            "text": "32"
+                        },
+                        {
+                            "paragraph_id": 940,
+                            "text": "Add lines 27a, 28, 29, 30, and 31. These are your total other payments and refundable credits ."
+                        },
+                        {
+                            "paragraph_id": 941,
+                            "text": "32"
+                        },
+                        {
+                            "paragraph_id": 942,
+                            "text": "33"
+                        },
+                        {
+                            "paragraph_id": 943,
+                            "text": "Add lines 25d, 26, and 32. These are your total payments"
+                        },
+                        {
+                            "paragraph_id": 944,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 945,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 946,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 947,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 948,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 949,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 950,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 951,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 952,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 953,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 954,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 955,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 956,
+                            "text": "33"
+                        }
+                    ]
+                },
+                {
+                    "section_id": 47,
+                    "header": "Refund",
+                    "paragraphs": [
+                        {
+                            "paragraph_id": 957,
+                            "text": "34"
+                        },
+                        {
+                            "paragraph_id": 958,
+                            "text": "If line 33 is more than line 24, subtract line 24 from line 33. This is the amount you overpaid"
+                        },
+                        {
+                            "paragraph_id": 959,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 960,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 961,
+                            "text": "34"
+                        },
+                        {
+                            "paragraph_id": 962,
+                            "text": "35a"
+                        },
+                        {
+                            "paragraph_id": 963,
+                            "text": "Amount of line 34 you want refunded to you. If Form 8888 is attached, check here"
+                        },
+                        {
+                            "paragraph_id": 964,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 965,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 966,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 967,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 968,
+                            "text": "35a"
+                        },
+                        {
+                            "paragraph_id": 969,
+                            "text": "Direct deposit?"
+                        },
+                        {
+                            "paragraph_id": 970,
+                            "text": "See instructions."
+                        },
+                        {
+                            "paragraph_id": 971,
+                            "text": "b"
+                        },
+                        {
+                            "paragraph_id": 972,
+                            "text": "Routing number"
+                        },
+                        {
+                            "paragraph_id": 973,
+                            "text": "c  Type:"
+                        }
+                    ]
+                },
+                {
+                    "section_id": 48,
+                    "header": "Checking",
+                    "paragraphs": []
+                },
+                {
+                    "section_id": 49,
+                    "header": "Savings",
+                    "paragraphs": [
+                        {
+                            "paragraph_id": 974,
+                            "text": "d"
+                        },
+                        {
+                            "paragraph_id": 975,
+                            "text": "Account number"
+                        },
+                        {
+                            "paragraph_id": 976,
+                            "text": "36"
+                        },
+                        {
+                            "paragraph_id": 977,
+                            "text": "Amount of line 34 you want applied to your 2026 estimated tax ."
+                        },
+                        {
+                            "paragraph_id": 978,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 979,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 980,
+                            "text": "36"
+                        }
+                    ]
+                },
+                {
+                    "section_id": 50,
+                    "header": "Amount",
+                    "paragraphs": []
+                },
+                {
+                    "section_id": 51,
+                    "header": "You Owe",
+                    "paragraphs": [
+                        {
+                            "paragraph_id": 981,
+                            "text": "37"
+                        },
+                        {
+                            "paragraph_id": 982,
+                            "text": "Subtract line 33 from line 24. This is the amount you owe."
+                        },
+                        {
+                            "paragraph_id": 983,
+                            "text": "For details on how to pay, go to www.irs.gov/Payments or see instructions ."
+                        },
+                        {
+                            "paragraph_id": 984,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 985,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 986,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 987,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 988,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 989,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 990,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 991,
+                            "text": "37"
+                        },
+                        {
+                            "paragraph_id": 992,
+                            "text": "38"
+                        },
+                        {
+                            "paragraph_id": 993,
+                            "text": "Estimated tax penalty (see instructions)"
+                        },
+                        {
+                            "paragraph_id": 994,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 995,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 996,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 997,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 998,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 999,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 1000,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 1001,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 1002,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 1003,
+                            "text": "."
+                        },
+                        {
+                            "paragraph_id": 1004,
+                            "text": "38"
+                        }
+                    ]
+                },
+                {
+                    "section_id": 52,
+                    "header": "Third Party",
+                    "paragraphs": []
+                },
+                {
+                    "section_id": 53,
+                    "header": "Designee",
+                    "paragraphs": [
+                        {
+                            "paragraph_id": 1005,
+                            "text": "Do you want to allow another person to discuss this return with the IRS? See instructions."
+                        },
+                        {
+                            "paragraph_id": 1006,
+                            "text": "Yes. Complete below."
+                        }
+                    ]
+                },
+                {
+                    "section_id": 54,
+                    "header": "No",
+                    "paragraphs": [
+                        {
+                            "paragraph_id": 1007,
+                            "text": "Designee’s"
+                        },
+                        {
+                            "paragraph_id": 1008,
+                            "text": "name"
+                        }
+                    ]
+                },
+                {
+                    "section_id": 55,
+                    "header": "Phone",
+                    "paragraphs": [
+                        {
+                            "paragraph_id": 1009,
+                            "text": "no."
+                        },
+                        {
+                            "paragraph_id": 1010,
+                            "text": "Personal identification"
+                        },
+                        {
+                            "paragraph_id": 1011,
+                            "text": "number (PIN)"
+                        }
+                    ]
+                },
+                {
+                    "section_id": 56,
+                    "header": "Sign",
+                    "paragraphs": []
+                },
+                {
+                    "section_id": 57,
+                    "header": "Here",
+                    "paragraphs": [
+                        {
+                            "paragraph_id": 1012,
+                            "text": "Joint return?"
+                        },
+                        {
+                            "paragraph_id": 1013,
+                            "text": "See instructions."
+                        },
+                        {
+                            "paragraph_id": 1014,
+                            "text": "Keep a copy for"
+                        },
+                        {
+                            "paragraph_id": 1015,
+                            "text": "your records."
+                        },
+                        {
+                            "paragraph_id": 1016,
+                            "text": "Under penalties of perjury, I declare that I have examined this return and accompanying schedules and statements, and to the best of my knowledge and"
+                        },
+                        {
+                            "paragraph_id": 1017,
+                            "text": "belief, they are true, correct, and complete. Declaration of preparer (other than taxpayer) is based on all information of which preparer has any knowledge."
+                        },
+                        {
+                            "paragraph_id": 1018,
+                            "text": "Your signature"
+                        }
+                    ]
+                },
+                {
+                    "section_id": 58,
+                    "header": "Date",
+                    "paragraphs": [
+                        {
+                            "paragraph_id": 1019,
+                            "text": "Your occupation"
+                        },
+                        {
+                            "paragraph_id": 1020,
+                            "text": "If the IRS sent you an Identity"
+                        },
+                        {
+                            "paragraph_id": 1021,
+                            "text": "Protection PIN, enter it here"
+                        },
+                        {
+                            "paragraph_id": 1022,
+                            "text": "(see inst.)"
+                        },
+                        {
+                            "paragraph_id": 1023,
+                            "text": "Spouse’s signature. If a joint return, both must sign."
+                        }
+                    ]
+                },
+                {
+                    "section_id": 59,
+                    "header": "Date",
+                    "paragraphs": [
+                        {
+                            "paragraph_id": 1024,
+                            "text": "Spouse’s occupation"
+                        },
+                        {
+                            "paragraph_id": 1025,
+                            "text": "If the IRS sent your spouse an"
+                        },
+                        {
+                            "paragraph_id": 1026,
+                            "text": "Identity Protection PIN, enter it here"
+                        },
+                        {
+                            "paragraph_id": 1027,
+                            "text": "(see inst.)"
+                        },
+                        {
+                            "paragraph_id": 1028,
+                            "text": "Phone no."
+                        },
+                        {
+                            "paragraph_id": 1029,
+                            "text": "Email address"
+                        }
+                    ]
+                },
+                {
+                    "section_id": 60,
+                    "header": "Paid",
+                    "paragraphs": []
+                },
+                {
+                    "section_id": 61,
+                    "header": "Preparer",
+                    "paragraphs": []
+                },
+                {
+                    "section_id": 62,
+                    "header": "Use Only",
+                    "paragraphs": [
+                        {
+                            "paragraph_id": 1030,
+                            "text": "Preparer’s name"
+                        },
+                        {
+                            "paragraph_id": 1031,
+                            "text": "Preparer’s signature"
+                        }
+                    ]
+                },
+                {
+                    "section_id": 63,
+                    "header": "Date",
+                    "paragraphs": []
+                },
+                {
+                    "section_id": 64,
+                    "header": "PTIN",
+                    "paragraphs": [
+                        {
+                            "paragraph_id": 1032,
+                            "text": "Check if:"
+                        },
+                        {
+                            "paragraph_id": 1033,
+                            "text": "Self-employed"
+                        },
+                        {
+                            "paragraph_id": 1034,
+                            "text": "Firm’s name"
+                        },
+                        {
+                            "paragraph_id": 1035,
+                            "text": "Phone no."
+                        },
+                        {
+                            "paragraph_id": 1036,
+                            "text": "Firm’s address"
+                        },
+                        {
+                            "paragraph_id": 1037,
+                            "text": "Firm’s EIN"
+                        },
+                        {
+                            "paragraph_id": 1038,
+                            "text": "Go to www.irs.gov/Form1040 for instructions and the latest information."
+                        }
+                    ]
+                },
+                {
+                    "section_id": 65,
+                    "header": "Form 1040 (2025)",
+                    "paragraphs": []
+                }
+            ],
+            "unclassified_content": []
+        }
+    ]
+}

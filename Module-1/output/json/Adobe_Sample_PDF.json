@@ -1,0 +1,228 @@
+{
+    "document_name": "Adobe_Sample_PDF.pdf",
+    "pages": [
+        {
+            "page_number": 1,
+            "sections": [
+                {
+                    "header": "PDF BOOKMARK SAMPLE",
+                    "content": []
+                },
+                {
+                    "header": "Sample Date:",
+                    "content": []
+                },
+                {
+                    "header": "May 2001",
+                    "content": [
+                        "Prepared by:"
+                    ]
+                },
+                {
+                    "header": "Accelio Present Applied Technology",
+                    "content": [
+                        "Created and Tested Using:",
+                        "•"
+                    ]
+                },
+                {
+                    "header": "Accelio Present Central 5.4",
+                    "content": [
+                        "•"
+                    ]
+                },
+                {
+                    "header": "Accelio Present Output Designer 5.4",
+                    "content": []
+                },
+                {
+                    "header": "Features Demonstrated:",
+                    "content": [
+                        "•",
+                        "Primary bookmarks in a PDF file.",
+                        "•",
+                        "Secondary bookmarks in a PDF file."
+                    ]
+                },
+                {
+                    "header": "Overview",
+                    "content": [
+                        "This sample consists of a simple form containing four distinct fields. The data file contains eight",
+                        "separate records.",
+                        "By default, the data file will produce a PDF file containing eight separate pages. The selective",
+                        "use of the bookmark file will produce the same PDF with a separate pane containing",
+                        "bookmarks. This screenshot of the sample output shows a PDF file with bookmarks.",
+                        "The left pane displays the available bookmarks for this PDF. You may need to enable the",
+                        "display of bookmarks in Adobe Acrobat Reader by clicking Window > Show Bookmarks.",
+                        "Selecting a date from the left pane displays the corresponding page within the document.",
+                        "Note that the index has been sorted according to the specification in the bookmark file, and that",
+                        "pages within the file are created according to the original order in the data file."
+                    ]
+                }
+            ],
+            "unclassified_content": [
+                "PDF Bookmark Sample",
+                "Page 1 of 4"
+            ]
+        },
+        {
+            "page_number": 2,
+            "sections": [
+                {
+                    "header": "Sample Data File",
+                    "content": [
+                        "^reformat trunc",
+                        "^symbolset WINLATIN1",
+                        "^field trans_date",
+                        "2000-01-1",
+                        "^field description",
+                        "Description for item #1",
+                        "^field trans_type"
+                    ]
+                },
+                {
+                    "header": "TYPE1",
+                    "content": [
+                        "^field trans_amount",
+                        "11.00",
+                        "^page 1",
+                        "^field trans_date",
+                        "2000-01-2",
+                        "^field description",
+                        "Description for item #2",
+                        "^field trans_type"
+                    ]
+                },
+                {
+                    "header": "TYPE2",
+                    "content": [
+                        "^field trans_amount",
+                        "11.00",
+                        "^page 1",
+                        "^field trans_date",
+                        "2000-01-3",
+                        "^field description",
+                        "Description for item #3",
+                        "^field trans_type"
+                    ]
+                },
+                {
+                    "header": "TYPE3",
+                    "content": []
+                },
+                {
+                    "header": "Sample Bookmark File",
+                    "content": [
+                        "[invoices]",
+                        "Invoices by Date=0",
+                        "trans_date=1,A",
+                        "[type]",
+                        "Invoices by Item Type=0",
+                        "trans_type=1,A",
+                        "[amount]",
+                        "Invoices by Transaction Amount=0",
+                        "trans_amount=1,D",
+                        "The example bookmark file includes three distinct sections:",
+                        "•",
+                        "Invoices sorted, ascending, by date.",
+                        "•",
+                        "Invoices sorted, ascending, by item type.",
+                        "•",
+                        "Invoices sorted, descending, by transaction amount."
+                    ]
+                }
+            ],
+            "unclassified_content": [
+                "PDF Bookmark Sample",
+                "Page 2 of 4"
+            ]
+        },
+        {
+            "page_number": 3,
+            "sections": [
+                {
+                    "header": "Sample Files",
+                    "content": [
+                        "This sample package contains:"
+                    ]
+                },
+                {
+                    "header": "Filename",
+                    "content": []
+                },
+                {
+                    "header": "Description",
+                    "content": [
+                        "ap_bookmark.IFD",
+                        "The template design.",
+                        "ap_bookmark.mdf",
+                        "The template targeted for PDF output.",
+                        "ap_bookmark.dat",
+                        "A sample data file in DAT format.",
+                        "ap_bookmark.bmk",
+                        "A sample bookmark file.",
+                        "ap_bookmark.pdf",
+                        "Sample PDF output.",
+                        "ap_bookmark_doc.pdf",
+                        "A document describing the sample.",
+                        "Deploying the Sample",
+                        "To deploy this sample in your environment:",
+                        "1. Open the template design ap_bookmark.IFD in Output Designer and recompile the",
+                        "template for the appropriate presentment target.",
+                        "2. Modify the -z option in the ^job command in the data file ap_bookmark.dat to:",
+                        "•",
+                        "Identify the target output device.",
+                        "•",
+                        "Identify the bookmark file using the -abmk command.",
+                        "•",
+                        "Identify the section for which to generate bookmarks, if desired, using the -abms",
+                        "command.",
+                        "For example,",
+                        "To bookmark by …",
+                        "Use the command line parameter …"
+                    ]
+                },
+                {
+                    "header": "Invoices",
+                    "content": [
+                        "-abmkap_bookmark.bmk -abmsinvoices"
+                    ]
+                },
+                {
+                    "header": "Type",
+                    "content": [
+                        "-abmkap_bookmark.bmk -abmstype"
+                    ]
+                },
+                {
+                    "header": "Amount",
+                    "content": [
+                        "-abmkap_bookmark.bmk -abmsamount"
+                    ]
+                }
+            ],
+            "unclassified_content": [
+                "PDF Bookmark Sample",
+                "Page 3 of 4"
+            ]
+        },
+        {
+            "page_number": 4,
+            "sections": [],
+            "unclassified_content": [
+                "PDF Bookmark Sample",
+                "Page 4 of 4",
+                "3. Place the accompanying files in directories consistent with your implementation:",
+                "•",
+                "Place ap_bookmark.IFD in the Designs subdirectory for Output Designer.",
+                "•",
+                "Place ap_bookmark.mdf in the forms subdirectory accessible to Central.",
+                "•",
+                "Place ap_bookmark.bmk in an addressable directory.",
+                "Running the Sample",
+                "•",
+                "To run this sample, place ap_bookmark.dat in the collector directory scanned by Central."
+            ]
+        }
+    ]
+}

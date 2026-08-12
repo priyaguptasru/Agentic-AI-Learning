@@ -1,0 +1,570 @@
+{
+    "document_id": 1,
+    "document_name": "Adobe_Sample_PDF.pdf",
+    "pages": [
+        {
+            "page_id": 1,
+            "page_number": 1,
+            "sections": [
+                {
+                    "section_id": 1,
+                    "header": "PDF BOOKMARK SAMPLE",
+                    "paragraphs": []
+                },
+                {
+                    "section_id": 2,
+                    "header": "Sample Date:",
+                    "paragraphs": []
+                },
+                {
+                    "section_id": 3,
+                    "header": "May 2001",
+                    "paragraphs": [
+                        {
+                            "paragraph_id": 1,
+                            "text": "Prepared by:"
+                        }
+                    ]
+                },
+                {
+                    "section_id": 4,
+                    "header": "Accelio Present Applied Technology",
+                    "paragraphs": [
+                        {
+                            "paragraph_id": 2,
+                            "text": "Created and Tested Using:"
+                        },
+                        {
+                            "paragraph_id": 3,
+                            "text": "•"
+                        }
+                    ]
+                },
+                {
+                    "section_id": 5,
+                    "header": "Accelio Present Central 5.4",
+                    "paragraphs": [
+                        {
+                            "paragraph_id": 4,
+                            "text": "•"
+                        }
+                    ]
+                },
+                {
+                    "section_id": 6,
+                    "header": "Accelio Present Output Designer 5.4",
+                    "paragraphs": []
+                },
+                {
+                    "section_id": 7,
+                    "header": "Features Demonstrated:",
+                    "paragraphs": [
+                        {
+                            "paragraph_id": 5,
+                            "text": "•"
+                        },
+                        {
+                            "paragraph_id": 6,
+                            "text": "Primary bookmarks in a PDF file."
+                        },
+                        {
+                            "paragraph_id": 7,
+                            "text": "•"
+                        },
+                        {
+                            "paragraph_id": 8,
+                            "text": "Secondary bookmarks in a PDF file."
+                        }
+                    ]
+                },
+                {
+                    "section_id": 8,
+                    "header": "Overview",
+                    "paragraphs": [
+                        {
+                            "paragraph_id": 9,
+                            "text": "This sample consists of a simple form containing four distinct fields. The data file contains eight"
+                        },
+                        {
+                            "paragraph_id": 10,
+                            "text": "separate records."
+                        },
+                        {
+                            "paragraph_id": 11,
+                            "text": "By default, the data file will produce a PDF file containing eight separate pages. The selective"
+                        },
+                        {
+                            "paragraph_id": 12,
+                            "text": "use of the bookmark file will produce the same PDF with a separate pane containing"
+                        },
+                        {
+                            "paragraph_id": 13,
+                            "text": "bookmarks. This screenshot of the sample output shows a PDF file with bookmarks."
+                        },
+                        {
+                            "paragraph_id": 14,
+                            "text": "The left pane displays the available bookmarks for this PDF. You may need to enable the"
+                        },
+                        {
+                            "paragraph_id": 15,
+                            "text": "display of bookmarks in Adobe Acrobat Reader by clicking Window > Show Bookmarks."
+                        },
+                        {
+                            "paragraph_id": 16,
+                            "text": "Selecting a date from the left pane displays the corresponding page within the document."
+                        },
+                        {
+                            "paragraph_id": 17,
+                            "text": "Note that the index has been sorted according to the specification in the bookmark file, and that"
+                        },
+                        {
+                            "paragraph_id": 18,
+                            "text": "pages within the file are created according to the original order in the data file."
+                        }
+                    ]
+                }
+            ],
+            "unclassified_content": [
+                {
+                    "paragraph_id": 19,
+                    "text": "PDF Bookmark Sample"
+                },
+                {
+                    "paragraph_id": 20,
+                    "text": "Page 1 of 4"
+                }
+            ]
+        },
+        {
+            "page_id": 2,
+            "page_number": 2,
+            "sections": [
+                {
+                    "section_id": 9,
+                    "header": "Sample Data File",
+                    "paragraphs": [
+                        {
+                            "paragraph_id": 21,
+                            "text": "^reformat trunc"
+                        },
+                        {
+                            "paragraph_id": 22,
+                            "text": "^symbolset WINLATIN1"
+                        },
+                        {
+                            "paragraph_id": 23,
+                            "text": "^field trans_date"
+                        },
+                        {
+                            "paragraph_id": 24,
+                            "text": "2000-01-1"
+                        },
+                        {
+                            "paragraph_id": 25,
+                            "text": "^field description"
+                        },
+                        {
+                            "paragraph_id": 26,
+                            "text": "Description for item #1"
+                        },
+                        {
+                            "paragraph_id": 27,
+                            "text": "^field trans_type"
+                        }
+                    ]
+                },
+                {
+                    "section_id": 10,
+                    "header": "TYPE1",
+                    "paragraphs": [
+                        {
+                            "paragraph_id": 28,
+                            "text": "^field trans_amount"
+                        },
+                        {
+                            "paragraph_id": 29,
+                            "text": "11.00"
+                        },
+                        {
+                            "paragraph_id": 30,
+                            "text": "^page 1"
+                        },
+                        {
+                            "paragraph_id": 31,
+                            "text": "^field trans_date"
+                        },
+                        {
+                            "paragraph_id": 32,
+                            "text": "2000-01-2"
+                        },
+                        {
+                            "paragraph_id": 33,
+                            "text": "^field description"
+                        },
+                        {
+                            "paragraph_id": 34,
+                            "text": "Description for item #2"
+                        },
+                        {
+                            "paragraph_id": 35,
+                            "text": "^field trans_type"
+                        }
+                    ]
+                },
+                {
+                    "section_id": 11,
+                    "header": "TYPE2",
+                    "paragraphs": [
+                        {
+                            "paragraph_id": 36,
+                            "text": "^field trans_amount"
+                        },
+                        {
+                            "paragraph_id": 37,
+                            "text": "11.00"
+                        },
+                        {
+                            "paragraph_id": 38,
+                            "text": "^page 1"
+                        },
+                        {
+                            "paragraph_id": 39,
+                            "text": "^field trans_date"
+                        },
+                        {
+                            "paragraph_id": 40,
+                            "text": "2000-01-3"
+                        },
+                        {
+                            "paragraph_id": 41,
+                            "text": "^field description"
+                        },
+                        {
+                            "paragraph_id": 42,
+                            "text": "Description for item #3"
+                        },
+                        {
+                            "paragraph_id": 43,
+                            "text": "^field trans_type"
+                        }
+                    ]
+                },
+                {
+                    "section_id": 12,
+                    "header": "TYPE3",
+                    "paragraphs": []
+                },
+                {
+                    "section_id": 13,
+                    "header": "Sample Bookmark File",
+                    "paragraphs": [
+                        {
+                            "paragraph_id": 44,
+                            "text": "[invoices]"
+                        },
+                        {
+                            "paragraph_id": 45,
+                            "text": "Invoices by Date=0"
+                        },
+                        {
+                            "paragraph_id": 46,
+                            "text": "trans_date=1,A"
+                        },
+                        {
+                            "paragraph_id": 47,
+                            "text": "[type]"
+                        },
+                        {
+                            "paragraph_id": 48,
+                            "text": "Invoices by Item Type=0"
+                        },
+                        {
+                            "paragraph_id": 49,
+                            "text": "trans_type=1,A"
+                        },
+                        {
+                            "paragraph_id": 50,
+                            "text": "[amount]"
+                        },
+                        {
+                            "paragraph_id": 51,
+                            "text": "Invoices by Transaction Amount=0"
+                        },
+                        {
+                            "paragraph_id": 52,
+                            "text": "trans_amount=1,D"
+                        },
+                        {
+                            "paragraph_id": 53,
+                            "text": "The example bookmark file includes three distinct sections:"
+                        },
+                        {
+                            "paragraph_id": 54,
+                            "text": "•"
+                        },
+                        {
+                            "paragraph_id": 55,
+                            "text": "Invoices sorted, ascending, by date."
+                        },
+                        {
+                            "paragraph_id": 56,
+                            "text": "•"
+                        },
+                        {
+                            "paragraph_id": 57,
+                            "text": "Invoices sorted, ascending, by item type."
+                        },
+                        {
+                            "paragraph_id": 58,
+                            "text": "•"
+                        },
+                        {
+                            "paragraph_id": 59,
+                            "text": "Invoices sorted, descending, by transaction amount."
+                        }
+                    ]
+                }
+            ],
+            "unclassified_content": [
+                {
+                    "paragraph_id": 60,
+                    "text": "PDF Bookmark Sample"
+                },
+                {
+                    "paragraph_id": 61,
+                    "text": "Page 2 of 4"
+                }
+            ]
+        },
+        {
+            "page_id": 3,
+            "page_number": 3,
+            "sections": [
+                {
+                    "section_id": 14,
+                    "header": "Sample Files",
+                    "paragraphs": [
+                        {
+                            "paragraph_id": 62,
+                            "text": "This sample package contains:"
+                        }
+                    ]
+                },
+                {
+                    "section_id": 15,
+                    "header": "Filename",
+                    "paragraphs": []
+                },
+                {
+                    "section_id": 16,
+                    "header": "Description",
+                    "paragraphs": [
+                        {
+                            "paragraph_id": 63,
+                            "text": "ap_bookmark.IFD"
+                        },
+                        {
+                            "paragraph_id": 64,
+                            "text": "The template design."
+                        },
+                        {
+                            "paragraph_id": 65,
+                            "text": "ap_bookmark.mdf"
+                        },
+                        {
+                            "paragraph_id": 66,
+                            "text": "The template targeted for PDF output."
+                        },
+                        {
+                            "paragraph_id": 67,
+                            "text": "ap_bookmark.dat"
+                        },
+                        {
+                            "paragraph_id": 68,
+                            "text": "A sample data file in DAT format."
+                        },
+                        {
+                            "paragraph_id": 69,
+                            "text": "ap_bookmark.bmk"
+                        },
+                        {
+                            "paragraph_id": 70,
+                            "text": "A sample bookmark file."
+                        },
+                        {
+                            "paragraph_id": 71,
+                            "text": "ap_bookmark.pdf"
+                        },
+                        {
+                            "paragraph_id": 72,
+                            "text": "Sample PDF output."
+                        },
+                        {
+                            "paragraph_id": 73,
+                            "text": "ap_bookmark_doc.pdf"
+                        },
+                        {
+                            "paragraph_id": 74,
+                            "text": "A document describing the sample."
+                        },
+                        {
+                            "paragraph_id": 75,
+                            "text": "Deploying the Sample"
+                        },
+                        {
+                            "paragraph_id": 76,
+                            "text": "To deploy this sample in your environment:"
+                        },
+                        {
+                            "paragraph_id": 77,
+                            "text": "1. Open the template design ap_bookmark.IFD in Output Designer and recompile the"
+                        },
+                        {
+                            "paragraph_id": 78,
+                            "text": "template for the appropriate presentment target."
+                        },
+                        {
+                            "paragraph_id": 79,
+                            "text": "2. Modify the -z option in the ^job command in the data file ap_bookmark.dat to:"
+                        },
+                        {
+                            "paragraph_id": 80,
+                            "text": "•"
+                        },
+                        {
+                            "paragraph_id": 81,
+                            "text": "Identify the target output device."
+                        },
+                        {
+                            "paragraph_id": 82,
+                            "text": "•"
+                        },
+                        {
+                            "paragraph_id": 83,
+                            "text": "Identify the bookmark file using the -abmk command."
+                        },
+                        {
+                            "paragraph_id": 84,
+                            "text": "•"
+                        },
+                        {
+                            "paragraph_id": 85,
+                            "text": "Identify the section for which to generate bookmarks, if desired, using the -abms"
+                        },
+                        {
+                            "paragraph_id": 86,
+                            "text": "command."
+                        },
+                        {
+                            "paragraph_id": 87,
+                            "text": "For example,"
+                        },
+                        {
+                            "paragraph_id": 88,
+                            "text": "To bookmark by …"
+                        },
+                        {
+                            "paragraph_id": 89,
+                            "text": "Use the command line parameter …"
+                        }
+                    ]
+                },
+                {
+                    "section_id": 17,
+                    "header": "Invoices",
+                    "paragraphs": [
+                        {
+                            "paragraph_id": 90,
+                            "text": "-abmkap_bookmark.bmk -abmsinvoices"
+                        }
+                    ]
+                },
+                {
+                    "section_id": 18,
+                    "header": "Type",
+                    "paragraphs": [
+                        {
+                            "paragraph_id": 91,
+                            "text": "-abmkap_bookmark.bmk -abmstype"
+                        }
+                    ]
+                },
+                {
+                    "section_id": 19,
+                    "header": "Amount",
+                    "paragraphs": [
+                        {
+                            "paragraph_id": 92,
+                            "text": "-abmkap_bookmark.bmk -abmsamount"
+                        }
+                    ]
+                }
+            ],
+            "unclassified_content": [
+                {
+                    "paragraph_id": 93,
+                    "text": "PDF Bookmark Sample"
+                },
+                {
+                    "paragraph_id": 94,
+                    "text": "Page 3 of 4"
+                }
+            ]
+        },
+        {
+            "page_id": 4,
+            "page_number": 4,
+            "sections": [],
+            "unclassified_content": [
+                {
+                    "paragraph_id": 95,
+                    "text": "PDF Bookmark Sample"
+                },
+                {
+                    "paragraph_id": 96,
+                    "text": "Page 4 of 4"
+                },
+                {
+                    "paragraph_id": 97,
+                    "text": "3. Place the accompanying files in directories consistent with your implementation:"
+                },
+                {
+                    "paragraph_id": 98,
+                    "text": "•"
+                },
+                {
+                    "paragraph_id": 99,
+                    "text": "Place ap_bookmark.IFD in the Designs subdirectory for Output Designer."
+                },
+                {
+                    "paragraph_id": 100,
+                    "text": "•"
+                },
+                {
+                    "paragraph_id": 101,
+                    "text": "Place ap_bookmark.mdf in the forms subdirectory accessible to Central."
+                },
+                {
+                    "paragraph_id": 102,
+                    "text": "•"
+                },
+                {
+                    "paragraph_id": 103,
+                    "text": "Place ap_bookmark.bmk in an addressable directory."
+                },
+                {
+                    "paragraph_id": 104,
+                    "text": "Running the Sample"
+                },
+                {
+                    "paragraph_id": 105,
+                    "text": "•"
+                },
+                {
+                    "paragraph_id": 106,
+                    "text": "To run this sample, place ap_bookmark.dat in the collector directory scanned by Central."
+                }
+            ]
+        }
+    ]
+}
