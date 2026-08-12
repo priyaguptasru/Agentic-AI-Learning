@@ -1,0 +1,11 @@
+create virtual environment: python -m venv .venv2
+activate virtual environment: .\.venv2\Scripts\Activate.ps1
+start the server: uvicorn app.main:app --reload
+
+python -m rabbitmq.test_connection
+python -m rabbitmq.create_queue
+python -m rabbitmq.producer
+python -m workers.pdf_worker
+
+
+rabbitMQ: http://localhost:15672/#/
