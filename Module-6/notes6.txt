@@ -1,0 +1,9 @@
+create virtual environment: python -m venv .venv6
+activate virtual environment: .\.venv6\Scripts\Activate.ps1
+to check virtual environment: python -c "import sys; print(sys.executable)"
+to find the list of requirements.txt: pip list
+
+
+streamlit run app6/ui/streamlit_app.py
+python -m app6.tests.test_intent_classifier
+python -m app6.tests.test_agent_workflow 
